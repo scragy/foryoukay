@@ -1,0 +1,22 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-image: url(bunga.jpeg);
+}
+
+.wrapper {
+    width: 420px;
+    height: 400px;
+    color: black;
+}
+
+.wrapper h1 {
+    text-align: center;
+}
+
+.klik {
+    text-align: center;
+}
